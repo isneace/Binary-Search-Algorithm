@@ -1,1 +1,1 @@
-This is a program I wrote during my first semester of Lewis-Clark State College in my CS213 class. It uses an ADT (binary search) to search through a standard text document.
+This is a program I wrote during my first semester of Lewis-Clark State College in my CS213 class. Program imports patient data into a list and prompts the user to search through the list. The user enters the patient name and the program performs a binary search to find the Patient name and where they are located in the file.
